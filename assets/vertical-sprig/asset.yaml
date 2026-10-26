@@ -24,7 +24,7 @@ facing: up
 composition: single-ornament
 
 # structural: how it is organised and related
-group: sprigs
+group: ivy-border
 render:
   image: {}
 usage_notes:

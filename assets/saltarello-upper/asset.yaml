@@ -26,7 +26,7 @@ facing: right
 composition: single-ornament
 
 # structural: how it is organised and related
-group: rods
+group: floral-border
 render:
   image: {}
 related:

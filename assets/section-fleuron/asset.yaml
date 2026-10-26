@@ -24,7 +24,7 @@ facing: none
 composition: single-ornament
 
 # structural: how it is organised and related
-group: dividers
+group: ivy-border
 render:
   image: {}
 usage_notes:

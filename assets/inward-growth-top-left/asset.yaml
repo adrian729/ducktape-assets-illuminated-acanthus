@@ -24,7 +24,7 @@ facing: down
 composition: single-ornament
 
 # structural: how it is organised and related
-group: corners
+group: floral-border
 render:
   image: {}
 related:
@@ -32,7 +32,7 @@ related:
   - { asset: illuminated-acanthus/inward-growth-bottom-left, role: companion }
   - { asset: illuminated-acanthus/inward-growth-bottom-right, role: companion }
   - { asset: illuminated-acanthus/frame-growth-top-left, role: variant }
-  - { asset: illuminated-acanthus/floral-frame, role: companion }
+  - { asset: illuminated-acanthus/ornate-inner-frame, role: companion }
 usage_notes:
   - Place at the top-left of a page or box so the inner branches overlap the content area.
   - Variant of frame-growth-top-left with growth into the interior; the four inward-growth corners form a matching set.

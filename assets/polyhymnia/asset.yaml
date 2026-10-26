@@ -43,7 +43,7 @@ view: three-quarter
 composition: framed-scene
 
 # structural: how it is organised and related
-group: figures
+group: miniatures
 render:
   image: {}
 related:

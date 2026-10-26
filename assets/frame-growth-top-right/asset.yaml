@@ -24,7 +24,7 @@ facing: down
 composition: single-ornament
 
 # structural: how it is organised and related
-group: corners
+group: floral-border
 render:
   image: {}
 related:
@@ -32,7 +32,7 @@ related:
   - { asset: illuminated-acanthus/frame-growth-bottom-left, role: companion }
   - { asset: illuminated-acanthus/frame-growth-bottom-right, role: companion }
   - { asset: illuminated-acanthus/inward-growth-top-right, role: variant }
-  - { asset: illuminated-acanthus/floral-frame, role: companion }
+  - { asset: illuminated-acanthus/ornate-inner-frame, role: companion }
 usage_notes:
   - Place at the top-right of a page or box, flush with the two edges.
   - The four frame-growth corners form a matching set in the palette of floral-frame; inward-growth-top-right adds branches into the interior.

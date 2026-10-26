@@ -23,7 +23,7 @@ facing: down
 composition: single-ornament
 
 # structural: how it is organised and related
-group: corners
+group: ivy-border
 render:
   image: {}
 related:

@@ -24,11 +24,15 @@ facing: none
 composition: single-ornament
 
 # structural: how it is organised and related
-group: frames
+group: floral-border
 render:
   image: {}
 related:
   - { asset: illuminated-acanthus/floral-frame, role: companion }
+  - { asset: illuminated-acanthus/frame-growth-top-left, role: companion }
+  - { asset: illuminated-acanthus/frame-growth-top-right, role: companion }
+  - { asset: illuminated-acanthus/frame-growth-bottom-left, role: companion }
+  - { asset: illuminated-acanthus/frame-growth-bottom-right, role: companion }
 usage_notes:
   - Lighter inner frame to nest inside floral-frame or to use alone; scale proportionally as one image.
   - Not sliced for border-image.

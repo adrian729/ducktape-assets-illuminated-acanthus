@@ -20,11 +20,12 @@ facing: up
 composition: single-ornament
 
 # structural: how it is organised and related
-group: sprigs
+group: ivy-border
 render:
   image: {}
 related:
-  - { asset: illuminated-acanthus/title-ivy, role: companion }
+  - { asset: illuminated-acanthus/title-ivy-open, role: companion }
+  - { asset: illuminated-acanthus/title-ivy-close, role: companion }
 usage_notes:
   - Small marker placed before a heading, aligned to the cap height of the text.
   - Portrait canvas with little margin; give it space on the right.

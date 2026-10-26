@@ -24,7 +24,7 @@ facing: none
 composition: single-ornament
 
 # structural: how it is organised and related
-group: frames
+group: floral-border
 render:
   image: {}
 related:

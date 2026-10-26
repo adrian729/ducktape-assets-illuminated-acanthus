@@ -1,0 +1,41 @@
+# descriptive: find it and understand it
+id: title-ivy-open
+title: Title ivy, opening bracket
+description: A large opening bracket for a heading, of blue and red acanthus leaves curling to the right around a gold three-lobed cap, with two green ivy leaves on short stems. It sits before the first letter of a title and faces right into the text; the background is transparent.
+type: ornament
+categories:
+  - botanical
+  - scrollwork
+subjects:
+  - acanthus
+  - ivy
+  - leaf
+  - scroll
+  - title
+colors:
+  - blue
+  - red
+  - gold
+  - green
+  - brown
+facing: right
+composition: single-ornament
+
+# structural: how it is organised and related
+group: ivy-border
+render:
+  image: {}
+related:
+  - { asset: illuminated-acanthus/title-ivy-close, role: companion }
+  - { asset: illuminated-acanthus/module-sprig, role: companion }
+usage_notes:
+  - "Place before the first letter of a heading; the matching closing sprig goes after the last letter."
+  - Cut from the left half of the original two-piece canvas; the two pieces were drawn together and share scale and baseline.
+display_width: [ 60, 540 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-26
+master: master.webp
+license: null
