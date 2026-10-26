@@ -25,9 +25,9 @@ Package `@ranx729/ducktape-assets-illuminated-acanthus`; every file, width and f
 
 | id | title | type | size | group | status |
 | --- | --- | --- | --- | --- | --- |
-| `corner` | Acanthus corner, top-left | corner | 1266 × 1243 | corners | approved |
 | `corner-bottom-left` | Acanthus corner, bottom-left | corner | 1287 × 1222 | corners | approved |
 | `corner-bottom-right` | Acanthus corner, bottom-right | corner | 1536 × 1024 | corners | approved |
+| `corner-top-left` | Acanthus corner, top-left | corner | 1266 × 1243 | corners | approved |
 | `corner-top-right` | Acanthus corner, top-right | corner | 1312 × 1199 | corners | approved |
 | `divider-center` | Divider centrepiece | divider | 1774 × 887 | dividers | approved |
 | `divider-end` | Divider, right terminal | divider | 1448 × 1086 | dividers | approved |

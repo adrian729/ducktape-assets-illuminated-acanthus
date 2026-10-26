@@ -27,7 +27,7 @@ group: corners
 render:
   image: {}
 related:
-  - { asset: illuminated-acanthus/corner, role: companion }
+  - { asset: illuminated-acanthus/corner-top-left, role: companion }
   - { asset: illuminated-acanthus/corner-top-right, role: companion }
   - { asset: illuminated-acanthus/corner-bottom-right, role: companion }
   - { asset: illuminated-acanthus/frame, role: companion }
