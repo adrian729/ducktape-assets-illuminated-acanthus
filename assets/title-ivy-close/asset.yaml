@@ -1,7 +1,7 @@
 # descriptive: find it and understand it
 id: title-ivy-close
 title: Title ivy, closing sprig
-description: A small closing sprig for a heading, of blue and red acanthus leaves and one green ivy leaf on a stem that ends in a gold cap at its right. It sits after the last letter of a title and faces left back towards the text; the background is transparent.
+description: A small closing sprig for a heading, of blue, gold and red acanthus leaves on a stem that runs from a green ivy leaf at the left to a gold three-lobed cap at the right. It sits after the last letter of a title, the cap outward; the background is transparent.
 type: ornament
 categories:
   - botanical
@@ -18,7 +18,7 @@ colors:
   - gold
   - green
   - brown
-facing: left
+facing: right
 composition: single-ornament
 
 # structural: how it is organised and related
