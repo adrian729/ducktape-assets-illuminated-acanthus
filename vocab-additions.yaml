@@ -1,0 +1,39 @@
+# Subjects used by the drafts of this set that are not in schemas/vocab/subjects.yaml.
+# Add the ones kept after review to the global vocabulary in the same PR; never merged automatically.
+subjects:
+  - acanthus
+  - bird
+  - bud
+  - butterfly
+  - centerpiece
+  - corner
+  - divider
+  - fleuron
+  - floral
+  - flourish
+  - flower
+  - frame
+  - growth
+  - inner
+  - inward
+  - ivy
+  - landscape
+  - leaf
+  - logo
+  - margin
+  - medallion
+  - module
+  - muse
+  - musician
+  - organ
+  - ornate
+  - polyhymnia
+  - rosette
+  - saltarello
+  - scroll
+  - section-break
+  - sprig
+  - terminal
+  - title
+  - veil
+  - woman

@@ -1,0 +1,24 @@
+id: ornate-inner-frame
+title: Ornate inner frame
+description: Four original ornate acanthus corners joined by fine red-and-gold rules.
+type: frame
+categories:
+  - botanical
+  - scrollwork
+subjects:
+  - acanthus
+  - ornate
+  - inner
+  - frame
+colors:
+  - gold
+  - red
+facing: none
+composition: single-ornament
+render:
+  image: {}
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+license: null

@@ -1,0 +1,30 @@
+id: polyhymnia-logo-acanthus
+title: Polyhymnia logo frame
+description: A complete rounded illuminated-acanthus medallion frame with an empty transparent centre, drawn as the frame of the Polyhymnia homepage logo.
+type: frame
+categories:
+  - botanical
+  - scrollwork
+subjects:
+  - acanthus
+  - frame
+  - medallion
+  - logo
+colors:
+  - blue
+  - red
+  - gold
+  - green
+facing: none
+composition: single-ornament
+render:
+  image: {}
+usage_notes:
+  - Leave the centre empty and overlay the portrait in code.
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+provenance:
+  method: reference-guided-ai-generation
+license: null

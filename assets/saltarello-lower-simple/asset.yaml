@@ -1,0 +1,21 @@
+id: saltarello-lower-simple
+title: Saltarello lower simple
+description: Lightly simplified lower Saltarello ornament, matching the medieval-ornaments acanthus palette.
+type: ornament
+categories:
+  - botanical
+  - scrollwork
+subjects:
+  - acanthus
+  - saltarello
+colors:
+  - gold
+facing: none
+composition: single-ornament
+render:
+  image: {}
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+license: null

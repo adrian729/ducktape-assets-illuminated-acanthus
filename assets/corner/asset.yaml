@@ -1,0 +1,30 @@
+id: corner
+title: Corner
+description: A painted top-left L-shaped corner with red and gold rules, red and blue acanthus leaves, gold scrolls, green ivy and small floral finials.
+type: corner
+categories:
+  - botanical
+  - scrollwork
+subjects:
+  - corner
+  - acanthus
+  - ivy
+  - leaf
+  - scroll
+colors:
+  - red
+  - blue
+  - gold
+  - green
+  - brown
+facing: none
+composition: single-ornament
+render:
+  image: {}
+usage_notes:
+  - Distinct supplied top-left corner phase. Use as a whole image; it is not a rotation of another corner or a phase-matched repeating atlas.
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+license: null

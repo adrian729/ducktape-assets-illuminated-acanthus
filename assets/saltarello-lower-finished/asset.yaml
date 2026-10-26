@@ -1,0 +1,21 @@
+id: saltarello-lower-finished
+title: Saltarello lower finished
+description: Independent lower Saltarello margin ornament with a small finished finial.
+type: ornament
+categories:
+  - botanical
+  - scrollwork
+subjects:
+  - acanthus
+  - saltarello
+colors:
+  - gold
+facing: none
+composition: single-ornament
+render:
+  image: {}
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+license: null

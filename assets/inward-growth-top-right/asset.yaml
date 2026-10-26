@@ -1,0 +1,22 @@
+id: inward-growth-top-right
+title: Inward growth top right
+description: Frame-rooted top-right acanthus with open branches reaching into the interior.
+type: ornament
+categories:
+  - botanical
+  - scrollwork
+subjects:
+  - acanthus
+  - inward
+  - growth
+colors:
+  - gold
+facing: none
+composition: single-ornament
+render:
+  image: {}
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+license: null

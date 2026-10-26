@@ -1,0 +1,35 @@
+id: section-fleuron
+title: Section fleuron
+description: A broad balanced section ornament with a central red and blue foliate crest, gold curls, three green ivy leaves and short gold side stems ending in red-tipped finials.
+type: ornament
+categories:
+  - botanical
+  - scrollwork
+subjects:
+  - section-break
+  - fleuron
+  - acanthus
+  - ivy
+  - leaf
+  - scroll
+colors:
+  - blue
+  - red
+  - gold
+  - green
+  - brown
+  - white
+facing: none
+composition: single-ornament
+render:
+  image: {}
+usage_notes:
+  - Modern AI artwork created for this set using its original PNGs as visual references. Exact prompts, references and retained master hashes are recorded in acanthus-additions.json.
+  - Use as a complete standalone section break. Its capped side stems are part of the finite ornament; they are not repeatable rules.
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+provenance:
+  method: reference-guided-ai-generation
+license: null

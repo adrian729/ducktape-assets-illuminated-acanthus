@@ -1,0 +1,21 @@
+id: saltarello-lower
+title: Saltarello lower
+description: Original lower gold margin stem with floral acanthus terminal for Saltarello.
+type: ornament
+categories:
+  - botanical
+  - scrollwork
+subjects:
+  - acanthus
+  - saltarello
+colors:
+  - gold
+facing: none
+composition: single-ornament
+render:
+  image: {}
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+license: null

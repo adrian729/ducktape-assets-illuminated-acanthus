@@ -1,0 +1,24 @@
+id: module-sprig
+title: Module sprig
+description: A compact blue acanthus curl with a small red leaf and ochre-gold stem, painted to precede practice module headings.
+type: ornament
+categories:
+  - botanical
+  - scrollwork
+subjects:
+  - acanthus
+  - module
+  - sprig
+colors:
+  - blue
+  - gold
+  - red
+facing: none
+composition: single-ornament
+render:
+  image: {}
+status: draft
+review: pending
+created: 2026-10-26
+master: master.webp
+license: null

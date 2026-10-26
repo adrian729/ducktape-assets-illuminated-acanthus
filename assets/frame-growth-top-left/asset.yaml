@@ -1,0 +1,22 @@
+id: frame-growth-top-left
+title: Frame growth top left
+description: Original top-left acanthus growth rooted in the floral frame's inner edge.
+type: frame
+categories:
+  - botanical
+  - scrollwork
+subjects:
+  - acanthus
+  - frame
+  - growth
+colors:
+  - gold
+facing: none
+composition: single-ornament
+render:
+  image: {}
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+license: null

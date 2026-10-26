@@ -1,0 +1,24 @@
+id: floral-frame
+title: Floral frame
+description: Original gold floral and illuminated acanthus frame with four individually drawn corners.
+type: frame
+categories:
+  - botanical
+  - scrollwork
+subjects:
+  - acanthus
+  - floral
+  - frame
+colors:
+  - gold
+facing: none
+composition: single-ornament
+render:
+  image: {}
+usage_notes:
+  - Drawn as a complete frame; border-image slice is about 10.68% but it has no separate corner component yet.
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+license: null

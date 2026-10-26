@@ -1,0 +1,36 @@
+id: horizontal-flourish
+title: Horizontal flourish
+description: A low horizontal golden stem with red, blue and gold acanthus curls, three green ivy leaves, a small red bud and curling tendrils at both ends.
+type: ornament
+categories:
+  - botanical
+  - scrollwork
+subjects:
+  - section-break
+  - flourish
+  - acanthus
+  - ivy
+  - leaf
+  - bud
+  - scroll
+colors:
+  - blue
+  - red
+  - gold
+  - green
+  - brown
+  - white
+facing: none
+composition: single-ornament
+render:
+  image: {}
+usage_notes:
+  - Modern AI artwork created for this set using its original PNGs as visual references. Exact prompts, references and retained master hashes are recorded in acanthus-additions.json.
+  - An airy whole-image flourish for a section break or beneath a heading. Both tips are complete; no connecting rule or seamless repeat is inferred.
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+provenance:
+  method: reference-guided-ai-generation
+license: null

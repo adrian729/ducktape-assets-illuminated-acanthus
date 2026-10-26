@@ -1,0 +1,35 @@
+id: rosette
+title: Rosette
+description: A compact turning rosette of alternating red and blue acanthus leaves around a small gold disk, with gold curls and four green ivy leaves.
+type: ornament
+categories:
+  - botanical
+  - scrollwork
+subjects:
+  - rosette
+  - section-break
+  - acanthus
+  - ivy
+  - leaf
+  - scroll
+colors:
+  - blue
+  - red
+  - gold
+  - green
+  - brown
+  - white
+facing: none
+composition: single-ornament
+render:
+  image: {}
+usage_notes:
+  - Modern AI artwork created for this set using its original PNGs as visual references. Exact prompts, references and retained master hashes are recorded in acanthus-additions.json.
+  - A compact standalone section marker or chapter-end ornament. Use proportionally as one image; its fourfold composition is not a repeat tile.
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+provenance:
+  method: reference-guided-ai-generation
+license: null

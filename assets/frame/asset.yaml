@@ -1,0 +1,32 @@
+id: frame
+title: Frame
+description: A complete landscape frame with thin red and gold rules, red and blue acanthus scrolls, gold foliage and green ivy around a transparent rectangular opening.
+type: frame
+categories:
+  - botanical
+  - scrollwork
+  - floral
+subjects:
+  - frame
+  - acanthus
+  - ivy
+  - leaf
+  - scroll
+  - flower
+colors:
+  - red
+  - blue
+  - gold
+  - green
+  - brown
+facing: none
+composition: single-ornament
+render:
+  image: {}
+usage_notes:
+  - Fixed complete frame with a transparent center; resize proportionally as one image. Its sides are not verified repeat tiles.
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+license: null

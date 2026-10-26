@@ -1,0 +1,29 @@
+id: headpiece
+title: Headpiece
+description: A broad, nearly symmetric painted headpiece of red and blue acanthus leaves, gold scrolls and green ivy, with a central blue and gold foliate crest.
+type: ornament
+categories:
+  - botanical
+  - scrollwork
+subjects:
+  - acanthus
+  - ivy
+  - leaf
+  - scroll
+colors:
+  - red
+  - blue
+  - gold
+  - green
+  - brown
+facing: none
+composition: single-ornament
+render:
+  image: {}
+usage_notes:
+  - Complete flourish with retained end phases; do not tile or stretch it.
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+license: null

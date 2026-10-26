@@ -1,0 +1,49 @@
+id: polyhymnia
+title: Polyhymnia
+description: Polyhymnia, veiled and contemplative, playing a portative organ in the manuscript’s painted style. She sits in ivory robes and a blue mantle within a gold floral frame, with a garden and distant landscape behind her.
+type: illustration
+categories:
+  - humans
+  - music
+  - floral
+  - botanical
+  - animals
+  - scrollwork
+subjects:
+  - polyhymnia
+  - muse
+  - woman
+  - musician
+  - organ
+  - veil
+  - flower
+  - leaf
+  - bird
+  - butterfly
+  - landscape
+colors:
+  - blue
+  - cream
+  - gold
+  - pink
+  - green
+  - brown
+  - red
+  - white
+  - purple
+  - orange
+  - gray
+facing: right
+composition: framed-scene
+render:
+  image: {}
+usage_notes:
+  - User-supplied modern AI illustration. The exact generation prompt and original input hash are recorded in illustration-additions.json.
+  - The painted landscape and gold floral frame are part of this complete scene; transparency is limited to its irregular outer edge.
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+provenance:
+  method: independent-ai-interpretation
+license: null

@@ -1,0 +1,27 @@
+id: tailpiece
+title: Tailpiece
+description: An upright painted foliate spray with a red acanthus leaf on the left, a tall blue leaf above, a curled gold leaf on the right and small green ivy leaves at its base.
+type: ornament
+categories:
+  - botanical
+  - scrollwork
+subjects:
+  - acanthus
+  - ivy
+  - leaf
+  - scroll
+colors:
+  - red
+  - blue
+  - gold
+  - green
+  - brown
+facing: none
+composition: single-ornament
+render:
+  image: {}
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+license: null
