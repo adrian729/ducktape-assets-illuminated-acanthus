@@ -1,24 +1,42 @@
+# descriptive: find it and understand it
 id: ornate-inner-frame
 title: Ornate inner frame
-description: Four original ornate acanthus corners joined by fine red-and-gold rules.
+description: A complete landscape rectangular frame of four red, blue and gold acanthus corners with green leaves, white flowers and red berries, joined by thin red and gold rules with a small gold knot at the middle of each side, around a transparent opening, on a transparent background.
 type: frame
 categories:
   - botanical
   - scrollwork
+  - floral
 subjects:
   - acanthus
-  - ornate
-  - inner
-  - frame
+  - leaf
+  - flower
+  - berry
+  - scroll
+  - rule
 colors:
   - gold
   - red
+  - blue
+  - green
+  - white
 facing: none
 composition: single-ornament
+
+# structural: how it is organised and related
+group: frames
 render:
   image: {}
-status: draft
-review: pending
+related:
+  - { asset: illuminated-acanthus/floral-frame, role: companion }
+usage_notes:
+  - Lighter inner frame to nest inside floral-frame or to use alone; scale proportionally as one image.
+  - Not sliced for border-image.
+display_width: [ 400, 1400 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
 created: 2026-10-26
 master: master.png
 license: null

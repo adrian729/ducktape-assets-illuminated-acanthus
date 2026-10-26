@@ -1,33 +1,41 @@
+# descriptive: find it and understand it
 id: divider-end
-title: Divider end
-description: A right divider terminal with an upright blue acanthus leaf, a downward red curl, gold lobes and tendrils, a green ivy leaf and a rounded gold cap at the left edge.
+title: Divider, right terminal
+description: "The right end of a horizontal divider: a blue acanthus leaf curling up, a red leaf curling down, gold lobes and tendrils and a green ivy leaf fanning out to the right from a small gold three-lobed cap at the left edge, on a transparent background."
 type: divider
 categories:
   - botanical
   - scrollwork
 subjects:
-  - divider
-  - terminal
   - acanthus
   - ivy
   - leaf
   - scroll
+  - terminal
 colors:
   - blue
   - red
   - gold
   - green
   - brown
-  - white
-facing: none
+facing: right
 composition: single-ornament
+
+# structural: how it is organised and related
+group: dividers
 render:
   image: {}
+related:
+  - { asset: illuminated-acanthus/divider-start, role: companion }
+  - { asset: illuminated-acanthus/divider-center, role: companion }
 usage_notes:
-  - Modern AI artwork created for this set using its original PNGs as visual references. Exact prompts, references and retained master hashes are recorded in acanthus-additions.json.
-  - Right/end component, ending at the gold cap with no painted rule stub. Extend a flexible rule beneath the cap using examples/acanthus-dividers.css. This is a separately generated companion, not a pixel-exact reflection of the start.
-status: draft
-review: pending
+  - Right piece of a three-part flexible divider with divider-start and divider-center.
+  - The gold cap at the left edge is where a drawn rule should end; it is a separately drawn companion, not a mirror of divider-start.
+display_width: [ 80, 400 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
 created: 2026-10-26
 master: master.png
 provenance:

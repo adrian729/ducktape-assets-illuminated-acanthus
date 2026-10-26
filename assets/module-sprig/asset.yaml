@@ -1,24 +1,38 @@
+# descriptive: find it and understand it
 id: module-sprig
 title: Module sprig
-description: A compact blue acanthus curl with a small red leaf and ochre-gold stem, painted to precede practice module headings.
+description: "A compact upright sprig: a large blue acanthus leaf curling up and to the right, a gold leaf below it and a small red leaf at the lower right on a gold stem, on a transparent background."
 type: ornament
 categories:
   - botanical
   - scrollwork
 subjects:
   - acanthus
-  - module
+  - leaf
+  - scroll
   - sprig
 colors:
   - blue
   - gold
   - red
-facing: none
+  - brown
+facing: up
 composition: single-ornament
+
+# structural: how it is organised and related
+group: sprigs
 render:
   image: {}
-status: draft
-review: pending
+related:
+  - { asset: illuminated-acanthus/title-ivy, role: companion }
+usage_notes:
+  - Small marker placed before a heading, aligned to the cap height of the text.
+  - Portrait canvas with little margin; give it space on the right.
+display_width: [ 32, 200 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
 created: 2026-10-26
 master: master.webp
 license: null

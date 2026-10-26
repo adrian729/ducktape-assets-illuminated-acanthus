@@ -1,22 +1,47 @@
+# descriptive: find it and understand it
 id: inward-growth-top-left
-title: Inward growth top left
-description: Frame-rooted top-left acanthus with open branches reaching into the interior.
-type: ornament
+title: Inward-growing floral corner, top-left
+description: A top-left corner of gold, red and blue acanthus with green leaves, white five-petal flowers and red berries, with extra branches reaching diagonally from the corner into the interior of the page, on a transparent background.
+type: corner
 categories:
   - botanical
   - scrollwork
+  - floral
 subjects:
   - acanthus
-  - inward
-  - growth
+  - leaf
+  - flower
+  - berry
+  - scroll
+  - bud
 colors:
   - gold
-facing: none
+  - red
+  - blue
+  - green
+  - white
+facing: down
 composition: single-ornament
+
+# structural: how it is organised and related
+group: corners
 render:
   image: {}
-status: draft
-review: pending
+related:
+  - { asset: illuminated-acanthus/inward-growth-top-right, role: companion }
+  - { asset: illuminated-acanthus/inward-growth-bottom-left, role: companion }
+  - { asset: illuminated-acanthus/inward-growth-bottom-right, role: companion }
+  - { asset: illuminated-acanthus/frame-growth-top-left, role: variant }
+  - { asset: illuminated-acanthus/floral-frame, role: companion }
+usage_notes:
+  - Place at the top-left of a page or box so the inner branches overlap the content area.
+  - Variant of frame-growth-top-left with growth into the interior; the four inward-growth corners form a matching set.
+  - Use as a whole image; no rules, no border-image atlas.
+display_width: [ 200, 700 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
 created: 2026-10-26
 master: master.png
 license: null

@@ -1,33 +1,41 @@
+# descriptive: find it and understand it
 id: divider-center
-title: Divider center
-description: A balanced horizontal fleuron with blue acanthus curls, an upright red leaf, gold lower lobes and a downward green ivy leaf gathered around a small gold knot.
+title: Divider centrepiece
+description: A symmetric horizontal centrepiece of blue acanthus leaves curling outward to both sides, an upright red leaf in the middle, gold lower lobes and a green ivy leaf hanging below a small gold knot, on a transparent background.
 type: divider
 categories:
   - botanical
   - scrollwork
 subjects:
-  - divider
-  - centerpiece
   - acanthus
   - ivy
   - leaf
   - scroll
+  - centerpiece
 colors:
   - blue
   - red
   - gold
   - green
   - brown
-  - white
 facing: none
 composition: single-ornament
+
+# structural: how it is organised and related
+group: dividers
 render:
   image: {}
+related:
+  - { asset: illuminated-acanthus/divider-start, role: companion }
+  - { asset: illuminated-acanthus/divider-end, role: companion }
 usage_notes:
-  - Modern AI artwork created for this set using its original PNGs as visual references. Exact prompts, references and retained master hashes are recorded in acanthus-additions.json.
-  - Place at the center of a flexible divider with illuminated-acanthus-divider-start and illuminated-acanthus-divider-end; examples/acanthus-dividers.css supplies the connecting red-and-gold rules.
-status: draft
-review: pending
+  - Centre piece of a three-part flexible divider with divider-start and divider-end; draw the connecting rule beneath it.
+  - Also works alone as a section break.
+display_width: [ 120, 500 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
 created: 2026-10-26
 master: master.png
 provenance:

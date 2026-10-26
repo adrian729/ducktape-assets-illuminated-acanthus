@@ -1,34 +1,39 @@
+# descriptive: find it and understand it
 id: leaf-sprig
-title: Leaf sprig
-description: An airy diagonal golden stem carrying a curling blue acanthus leaf, a small red bud, two pointed green ivy leaves and a fine gold spiral.
+title: Diagonal leaf sprig
+description: A diagonal sprig on a gold stem rising from a small red bud at the lower left to a large curling blue acanthus leaf at the upper right, with two green ivy leaves and a fine gold spiral, on a transparent background.
 type: ornament
 categories:
   - botanical
   - scrollwork
 subjects:
-  - section-break
-  - sprig
   - acanthus
   - ivy
   - leaf
   - bud
   - scroll
+  - sprig
+  - section-break
 colors:
   - blue
   - red
   - gold
   - green
   - brown
-  - white
-facing: none
+facing: right
 composition: single-ornament
+
+# structural: how it is organised and related
+group: sprigs
 render:
   image: {}
 usage_notes:
-  - Modern AI artwork created for this set using its original PNGs as visual references. Exact prompts, references and retained master hashes are recorded in acanthus-additions.json.
-  - A lighter asymmetric accent for section breaks or headings. Use as a whole image and retain its native orientation and proportions.
-status: draft
-review: pending
+  - Light asymmetric accent for section breaks or beside a heading; keep its orientation.
+display_width: [ 120, 500 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
 created: 2026-10-26
 master: master.png
 provenance:

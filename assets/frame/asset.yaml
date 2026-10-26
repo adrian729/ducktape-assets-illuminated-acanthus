@@ -1,32 +1,44 @@
+# descriptive: find it and understand it
 id: frame
-title: Frame
-description: A complete landscape frame with thin red and gold rules, red and blue acanthus scrolls, gold foliage and green ivy around a transparent rectangular opening.
+title: Ruled acanthus frame
+description: A complete landscape rectangular frame of thin red and gold rules with red, blue and gold acanthus leaves, green ivy and gold berries growing around the outside of the rules, around a transparent opening, on a transparent background.
 type: frame
 categories:
   - botanical
   - scrollwork
-  - floral
 subjects:
-  - frame
   - acanthus
   - ivy
   - leaf
   - scroll
-  - flower
+  - rule
+  - berry
 colors:
-  - red
   - blue
+  - red
   - gold
   - green
   - brown
 facing: none
 composition: single-ornament
+
+# structural: how it is organised and related
+group: frames
 render:
   image: {}
+related:
+  - { asset: illuminated-acanthus/corner, role: companion }
+  - { asset: illuminated-acanthus/corner-top-right, role: companion }
+  - { asset: illuminated-acanthus/corner-bottom-left, role: companion }
+  - { asset: illuminated-acanthus/corner-bottom-right, role: companion }
 usage_notes:
-  - Fixed complete frame with a transparent center; resize proportionally as one image. Its sides are not verified repeat tiles.
-status: draft
-review: pending
+  - Fixed complete frame with a transparent centre; scale it proportionally as one image.
+  - Same rules and palette as the four ruled corners; its sides are not repeat tiles.
+display_width: [ 400, 1400 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
 created: 2026-10-26
 master: master.png
 license: null

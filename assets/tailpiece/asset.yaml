@@ -1,6 +1,7 @@
+# descriptive: find it and understand it
 id: tailpiece
-title: Tailpiece
-description: An upright painted foliate spray with a red acanthus leaf on the left, a tall blue leaf above, a curled gold leaf on the right and small green ivy leaves at its base.
+title: Acanthus tailpiece
+description: "An upright foliate spray on a gold stem: a red acanthus leaf curling to the left, a tall blue leaf rising above, a curled gold leaf to the right and a small green ivy leaf at the base, on a transparent background."
 type: ornament
 categories:
   - botanical
@@ -10,18 +11,29 @@ subjects:
   - ivy
   - leaf
   - scroll
+  - tailpiece
 colors:
-  - red
   - blue
+  - red
   - gold
   - green
   - brown
-facing: none
+facing: up
 composition: single-ornament
+
+# structural: how it is organised and related
+group: sprigs
 render:
   image: {}
-status: draft
-review: pending
+related:
+  - { asset: illuminated-acanthus/headpiece, role: companion }
+usage_notes:
+  - Place centred below the last paragraph of a chapter or section; pairs with headpiece.
+display_width: [ 80, 350 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
 created: 2026-10-26
 master: master.png
 license: null

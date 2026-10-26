@@ -1,34 +1,39 @@
+# descriptive: find it and understand it
 id: vertical-sprig
-title: Vertical sprig
-description: A slender upright golden stem with a red acanthus curl below, a blue acanthus curl above, green ivy leaves, a red bud and a curled gold root.
+title: Vertical margin sprig
+description: "A slender upright sprig on a gold stem: a blue acanthus leaf curling to the right near the top, a red leaf curling to the left below it, three green ivy leaves, a red bud at the top and a curled gold root at the bottom, on a transparent background."
 type: ornament
 categories:
   - botanical
   - scrollwork
 subjects:
-  - margin
-  - sprig
   - acanthus
   - ivy
   - leaf
   - bud
   - scroll
+  - sprig
+  - margin
 colors:
   - blue
   - red
   - gold
   - green
   - brown
-  - white
-facing: none
+facing: up
 composition: single-ornament
+
+# structural: how it is organised and related
+group: sprigs
 render:
   image: {}
 usage_notes:
-  - Modern AI artwork created for this set using its original PNGs as visual references. Exact prompts, references and retained master hashes are recorded in acanthus-additions.json.
-  - A standalone vertical margin ornament. Keep its upright orientation and natural proportions; it has no corner, straight rule or repeat unit.
-status: draft
-review: pending
+  - Standalone vertical margin ornament; keep it upright, it has no rule or repeat unit.
+display_width: [ 80, 350 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
 created: 2026-10-26
 master: master.png
 provenance:

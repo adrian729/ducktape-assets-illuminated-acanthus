@@ -1,24 +1,43 @@
+# descriptive: find it and understand it
 id: floral-frame
 title: Floral frame
-description: Original gold floral and illuminated acanthus frame with four individually drawn corners.
+description: A complete landscape rectangular frame with an opaque ochre-gold band filled with blue and red acanthus, green leaves, white five-petal flowers and red berries, bounded by thin red rules, around a transparent opening, on a transparent background.
 type: frame
 categories:
   - botanical
   - scrollwork
+  - floral
 subjects:
   - acanthus
-  - floral
-  - frame
+  - leaf
+  - flower
+  - berry
+  - scroll
+  - rule
 colors:
   - gold
+  - green
+  - blue
+  - red
+  - white
 facing: none
 composition: single-ornament
+
+# structural: how it is organised and related
+group: frames
 render:
   image: {}
+related:
+  - { asset: illuminated-acanthus/ornate-inner-frame, role: companion }
 usage_notes:
-  - Drawn as a complete frame; border-image slice is about 10.68% but it has no separate corner component yet.
-status: draft
-review: pending
+  - Fixed complete frame; scale it proportionally as one image and place content in the transparent opening.
+  - "Not sliced for border-image: the four corners are drawn individually and the sides are not repeat tiles."
+  - ornate-inner-frame and the frame-growth corners share its palette.
+display_width: [ 400, 1400 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
 created: 2026-10-26
 master: master.png
 license: null

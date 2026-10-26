@@ -1,26 +1,41 @@
+# descriptive: find it and understand it
 id: title-ivy
-title: Title ivy
-description: An open ivy-and-acanthus curl around the initial and a smaller finishing sprig, with opaque gold caps for the adjoining divider rules.
+title: Title ivy pair
+description: "Two heading ornaments on one transparent canvas: at the left a large opening bracket of blue and red acanthus curling to the right around a gold cap, with two green ivy leaves, and at the right a smaller closing sprig of blue and red leaves and one ivy leaf ending in a gold cap, with a wide empty gap between them for the title text."
 type: ornament
 categories:
   - botanical
   - scrollwork
 subjects:
   - acanthus
-  - title
   - ivy
+  - leaf
+  - scroll
+  - title
 colors:
+  - blue
+  - red
   - gold
-facing: none
+  - green
+  - brown
+facing: mixed
 composition: single-ornament
+
+# structural: how it is organised and related
+group: dividers
 render:
   image: {}
+related:
+  - { asset: illuminated-acanthus/module-sprig, role: companion }
 usage_notes:
-  - Render each complete ornament at its original aspect ratio, using the bounds as transparent display windows with 3px native padding.
-  - The first letter begins at opening.text, vertically aligned at its capital midline. The smaller sprig follows the final letter, including when the heading wraps.
-  - Rules end inside the opaque gold joins, beneath the artwork. No line crosses or underlines the text.
-status: draft
-review: pending
+  - "Flanks a heading: the opening bracket goes before the first letter, the closing sprig after the last; the text sits in the transparent gap."
+  - Both pieces are on one canvas; crop or clip to the left and right bounds to place them separately.
+  - Rules may end under the gold caps; nothing should cross the text.
+display_width: [ 300, 1000 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
 created: 2026-10-26
 master: master.webp
 license: null

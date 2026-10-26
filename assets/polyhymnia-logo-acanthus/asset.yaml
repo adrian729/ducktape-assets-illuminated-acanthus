@@ -1,13 +1,17 @@
+# descriptive: find it and understand it
 id: polyhymnia-logo-acanthus
-title: Polyhymnia logo frame
-description: A complete rounded illuminated-acanthus medallion frame with an empty transparent centre, drawn as the frame of the Polyhymnia homepage logo.
+title: Polyhymnia logo medallion
+description: "A circular medallion frame: a red and gold ring surrounded by red, blue and gold acanthus leaves at the four diagonals, blue and red fleurons at top and bottom and green ivy leaves, around a transparent centre, on a transparent background."
 type: frame
 categories:
   - botanical
   - scrollwork
 subjects:
   - acanthus
-  - frame
+  - ivy
+  - leaf
+  - scroll
+  - fleuron
   - medallion
   - logo
 colors:
@@ -17,12 +21,21 @@ colors:
   - green
 facing: none
 composition: single-ornament
+
+# structural: how it is organised and related
+group: frames
 render:
   image: {}
+related:
+  - { asset: illuminated-acanthus/polyhymnia, role: companion }
 usage_notes:
-  - Leave the centre empty and overlay the portrait in code.
-status: draft
-review: pending
+  - Frame of the Polyhymnia app logo; keep the centre empty and overlay a portrait or mark in code.
+  - Square canvas; the ring is centred.
+display_width: [ 120, 600 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
 created: 2026-10-26
 master: master.png
 provenance:

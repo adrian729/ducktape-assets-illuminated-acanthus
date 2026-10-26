@@ -1,6 +1,7 @@
+# descriptive: find it and understand it
 id: polyhymnia
-title: Polyhymnia
-description: Polyhymnia, veiled and contemplative, playing a portative organ in the manuscript’s painted style. She sits in ivory robes and a blue mantle within a gold floral frame, with a garden and distant landscape behind her.
+title: Polyhymnia playing a portative organ
+description: The muse Polyhymnia, a veiled young woman in a cream gown, pink sleeves and a blue mantle, sits on a stone bench and plays a portative organ, head bowed and turned to the right, before a garden and a hilly landscape with a castle. The arched scene is set in an opaque gold border strewn with pink roses, blue cornflowers, pansies, white acanthus sprays, butterflies and a bird; only the outer edge is transparent.
 type: illustration
 categories:
   - humans
@@ -8,40 +9,53 @@ categories:
   - floral
   - botanical
   - animals
-  - scrollwork
 subjects:
   - polyhymnia
   - muse
   - woman
   - musician
+  - portative-organ
   - organ
   - veil
   - flower
-  - leaf
-  - bird
+  - rose
+  - cornflower
+  - pansy
   - butterfly
+  - bird
+  - acanthus
+  - garden
   - landscape
+  - castle
 colors:
+  - gold
   - blue
   - cream
-  - gold
   - pink
+  - white
   - green
   - brown
-  - red
-  - white
   - purple
-  - orange
+  - red
   - gray
 facing: right
+view: three-quarter
 composition: framed-scene
+
+# structural: how it is organised and related
+group: figures
 render:
   image: {}
+related:
+  - { asset: illuminated-acanthus/polyhymnia-logo-acanthus, role: companion }
 usage_notes:
-  - User-supplied modern AI illustration. The exact generation prompt and original input hash are recorded in illustration-additions.json.
-  - The painted landscape and gold floral frame are part of this complete scene; transparency is limited to its irregular outer edge.
-status: draft
-review: pending
+  - Complete framed miniature for the Polyhymnia app; the painted border is part of the image, keep proportions.
+  - "Opaque: do not expect a transparent background behind the figure."
+display_width: [ 240, 900 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
 created: 2026-10-26
 master: master.png
 provenance:

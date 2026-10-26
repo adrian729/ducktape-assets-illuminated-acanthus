@@ -1,21 +1,48 @@
+# descriptive: find it and understand it
 id: saltarello-upper-simple
-title: Saltarello upper simple
-description: Lightly simplified upper Saltarello ornament, matching the medieval-ornaments acanthus palette.
-type: ornament
+title: Saltarello margin rod, upper, simple
+description: "A top-left corner piece for a left margin: a vertical gold rod edged in red, from which a horizontal spray of red and blue acanthus, green leaves and gold scrolls in a lighter, muted palette with fewer berries grows to the right along the top; the rod ends at the bottom in a small gold and blue foliate finial. Transparent background."
+type: corner
 categories:
   - botanical
   - scrollwork
+  - floral
 subjects:
   - acanthus
+  - rod
+  - leaf
+  - flower
+  - berry
+  - scroll
   - saltarello
+  - margin
+  - finial
 colors:
   - gold
-facing: none
+  - red
+  - blue
+  - green
+  - white
+facing: right
 composition: single-ornament
+
+# structural: how it is organised and related
+group: rods
 render:
   image: {}
-status: draft
-review: pending
+related:
+  - { asset: illuminated-acanthus/saltarello-lower-simple, role: companion }
+  - { asset: illuminated-acanthus/saltarello-upper, role: variant }
+  - { asset: illuminated-acanthus/saltarello-upper-finished, role: variant }
+usage_notes:
+  - Place at the top-left of a text block, rod along the left margin and spray along the top; pairs with saltarello-lower-simple.
+  - "Self-contained: the rod is capped, so it needs no connecting rule."
+  - Quieter palette for use beside dense text.
+display_width: [ 200, 600 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
 created: 2026-10-26
 master: master.png
 license: null
