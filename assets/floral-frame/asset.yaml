@@ -27,11 +27,13 @@ composition: single-ornament
 group: floral-border
 render:
   image: {}
+  frame:
+    slice_px: 146
 related:
   - { asset: illuminated-acanthus/ornate-inner-frame, role: companion }
 usage_notes:
-  - Fixed complete frame; scale it proportionally as one image and place content in the transparent opening.
-  - "Not sliced for border-image: the four corners are drawn individually and the sides are not repeat tiles."
+  - "Complete frame for CSS border-image: the build records the slice (146 px on the master, 10.68 % of the width and 14.6 % of the height) and the resolver's frame() returns the rule; the opening is transparent."
+  - Also fine as one proportionally scaled image with content in the opening.
   - ornate-inner-frame and the frame-growth corners share its palette.
 display_width: [ 400, 1400 ]
 

@@ -32,7 +32,7 @@ Package `@ranx729/ducktape-assets-illuminated-acanthus`; every file, width and f
 | `divider-center` | Divider centrepiece | divider | 1774 × 887 | ivy-border | approved |
 | `divider-end` | Divider, right terminal | divider | 1448 × 1086 | ivy-border | approved |
 | `divider-start` | Divider, left terminal | divider | 1448 × 1086 | ivy-border | approved |
-| `floral-frame` | Floral frame | frame | 1410 × 1116 | floral-border | approved |
+| `floral-frame` | Floral frame | frame | 1367 × 1000 | floral-border | approved |
 | `frame` | Ruled acanthus frame | frame | 1536 × 1024 | ivy-border | approved |
 | `frame-growth-bottom-left` | Floral frame corner, bottom-left | corner | 1254 × 1254 | floral-border | approved |
 | `frame-growth-bottom-right` | Floral frame corner, bottom-right | corner | 1254 × 1254 | floral-border | approved |
